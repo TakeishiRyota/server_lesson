@@ -1,4 +1,4 @@
-- -a 
+- -a
 - -l
 - pwd
 - cd
@@ -8,9 +8,5 @@
 - cp
 - mv
 - rm
-- *
-- >
-- >>
 - cat
 - vim
-- echo
