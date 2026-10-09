@@ -1,0 +1,29 @@
+    1  cd root
+    2  ls
+    3  cd server_lesson
+    4  history 300 
+    5  ls
+    6  rm -r linux_practice2
+    7  ls
+    8  mkdri linux_practice2 && cd linux_practice2
+    9  mkdir linux_practice2 && cd linux_practice2
+   10  mkdir documents && cd documents 
+   11  touch gizumo{01..50}
+   12  ls
+   13  rm *
+   14  ls
+   15  touch gizumo{01..50}.md
+   16  ls
+   17  cd ../ && mkdir trash 
+   18  ls
+   19  mv documents/gizumo{20..40}.md trash  
+   20  cd trush
+   21  cd trash
+   22  ls
+   23  cd ../
+   24  touch .gitignore
+   25  ls
+   26  ls -a
+   27  vi .gitignore
+   28  vi .gitignore
+   29  history 300 > exec_command.log
